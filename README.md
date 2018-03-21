@@ -5,7 +5,7 @@ To install open uBlock Origin and go to the 'my filters' tab. Copy and paste the
 
 Filters: 
 
-Facebook 
+Facebook:
   Blocks all known Facebook domain names. 
 
 YouTube: 
